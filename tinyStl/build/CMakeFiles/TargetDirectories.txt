@@ -1,0 +1,3 @@
+/home/lijiawei/linux/git/tinyStl/build/CMakeFiles/rebuild_cache.dir
+/home/lijiawei/linux/git/tinyStl/build/CMakeFiles/main.dir
+/home/lijiawei/linux/git/tinyStl/build/CMakeFiles/edit_cache.dir
